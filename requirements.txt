@@ -1,0 +1,5 @@
+streamlit
+aiohttp
+nest_asyncio
+pandas
+certifi
